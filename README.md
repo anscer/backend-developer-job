@@ -66,9 +66,14 @@ We’re looking for a motivated Back-end Developer who wants to be a big part of
 
 To apply, follow these steps:
 
-- Fork this repository to your own GitHub account.
-- Complete the assignment outlined in the ASSIGNMENT.md file.
-- Create a pull request with your completed assignment from your branch to the main branch of this repository.
+1. **Join our GitHub Classroom:**
+   - [Click here to join the GitHub Classroom](#).
+   - Sign in with your GitHub account.
+
+2. **Complete the Assessment:**
+   - After joining, you will receive access to a private repository with the assessment details.
+   - Follow the instructions in the `ASSIGNMENT.md` file to complete the assessment.
+
 Additionally, please include your resume and any other relevant documents in the attachments directory.
 
 We look forward to reviewing your application!
