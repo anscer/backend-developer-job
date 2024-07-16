@@ -68,7 +68,7 @@ To apply, follow these steps:
 
 1. **Join our GitHub Classroom:**
 
-   - [Click here to join the GitHub Classroom](https://classroom.github.com/classrooms/100217570-anscer-robotics-backend-developer-job).
+   - [Click here to join the GitHub Classroom](https://classroom.github.com/a/SYSupYgK).
    - Sign in with your GitHub account.
 
 2. **Complete the Assessment:**
